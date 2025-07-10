@@ -1,0 +1,37 @@
+
+.inter-normal{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.defcolor{
+    color: #4E47FF;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 150px;
+}
+.buttondef{
+    background-color: #4E47FF;
+    font-size: 16px;
+    font-weight: bold;
+}
+nav button{
+    color: white;
+    height: 48px;
+    width: 132px;
+    border: none;
+    border-radius: 10px;
+    
+    
+}
