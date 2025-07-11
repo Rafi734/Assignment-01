@@ -304,4 +304,24 @@ footer p{
     font-size: 16px;
     margin-bottom: 100px;
 }
+/* hover effect */
+.banner-button:hover {
+  background-color: gold;
+  color: white;
+}
+.signup-button:hover {
+  background-color: gold;
+  color: white;
+}
+.action-button:hover {
+  background-color: gold;
+  color: white;
+}
+.intouch-button:hover {
+  background-color: gold;
+  color: white;
+}
+.cursor{
+    cursor: pointer;
+}
 
