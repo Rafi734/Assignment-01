@@ -295,4 +295,13 @@ footer p{
     font-size: 16px;
     color: rgba(137, 135, 161, 1);
 }
+.footer-foot{
+    justify-content: center;
+    display: flex;
+    gap: 48px;
+    color: rgba(137, 135, 161, 1);
+    margin-top:20px ;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
 
