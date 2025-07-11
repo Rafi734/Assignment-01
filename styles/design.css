@@ -304,6 +304,10 @@ footer p{
     font-size: 16px;
     margin-bottom: 100px;
 }
+.footer-item a{
+   text-decoration: none;
+    color: rgba(137, 135, 161, 1);
+}
 /* hover effect */
 .banner-button:hover {
   background-color: gold;
