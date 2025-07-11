@@ -81,4 +81,99 @@ nav button{
     font-weight: bold ;
     font-size: 60px;
 }
+/* action styles */
+
+.action{
+    display: flex;
+    margin-top: 110px;
+    gap: 220px;
+    max-width: 1140px; 
+    max-height: 328px;
+    margin-left: 60px;
+}
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+}
+.action-des{
+    color: #252432;
+    font-weight: 100;
+    font-size: 24px;
+    width: 517px;
+   
+}
+.action-button{
+    margin-top: 23px ;
+    font-size: 16px;
+    width: 230px;
+    height: 50px;
+}
+.action-img{
+    border-radius: 48px;
+    max-width: 403px;
+    max-height: 328px;
+}
+.action-container{
+    width: 510px;
+    height: 200px;
+    text-wrap: wrap;
+    margin-top: 62px;
+    margin-bottom: 62px;
+    margin-left: 141px ;
+
+}
+
+/* user-styles */
+.user{
+    margin-top: 116px ;
+    max-width: 1140px;
+    max-height: 306 px;
+    padding: 50px 80px;
+    background-color: #4d47ff1a ;
+    margin-left: 140px;
+    border-radius: 24px;
+}
+.user-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+}
+.user-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 40px;
+    
+}
+.user-1-top{
+    font-size: 80px;
+    font-weight: bold;
+}
+.user-1-bottom{
+    font-size: 20px;
+    color: rgba(0, 0, 0, .5) ;
+    text-align: center;
+}
+.user-2-top{
+    font-size: 80px;
+    font-weight: bold;
+}
+.user-2-bottom{
+    font-size: 20px;
+    color: rgba(0, 0, 0, .5) ;
+    text-align: center;
+}
+.user-3-top{
+    font-size: 80px;
+    font-weight: bold;
+}
+.user-3-bottom{
+    font-size: 20px;
+    color: rgba(0, 0, 0, .5) ;
+    text-align: center;
+}
+
+
 
